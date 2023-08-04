@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dwm
+Comment=Dynamic window manager
+# Exec=/usr/local/bin/dwm
+Exec=/home/andrei/.suckless/autostart
+Icon=dwm
+Type=XSession
