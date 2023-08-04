@@ -1,4 +1,4 @@
 # Dwm-moldovenesc
-dwm
+dwm moldovenesc
 
-download firefox, alacritty, dmenu, dwmblocks, nitrogen, picom
+download firefox, alacritty, dmenu, dwmblocks, nitrogen, picom, lxappearance
